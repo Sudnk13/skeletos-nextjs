@@ -1,0 +1,53 @@
+/* AboutSection.module.css */
+.aboutSection {
+  background-color: white;
+  color: black; /* Add desired text color */
+}
+
+.titleStyling {
+  position: relative;
+}
+
+.aboutTitleStyle {
+  position: relative; /* Add relative positioning to the "ABOUT" text container */
+  font-size: 120px;
+  font-weight: 600;
+  font-family: "Cormorant Garamond", serif;
+  color: #00000042;
+  padding: 10px;
+}
+
+.skeletosStyle {
+  position: absolute;
+  top: 65px;
+  left: 150px;
+  font-size: 28px;
+  font-weight: 700;
+  font-family: "Cormorant Garamond", serif;
+}
+
+.imgContainer {
+  height: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+}
+
+.cardContainer {
+  width: 250px;
+  height: 180px;
+}
+
+.contentText {
+  font-family: "Montserrat";
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.contentPara {
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 400;
+}
